@@ -5,7 +5,7 @@
 | No. | Savollar |
 | --- | --- |
 | 1 | [OOP nima?](https://github.com/OybekMavlonov/OOP-questions-and-answers-OOP-savol-javoblar-#1-oop-nima) |
-| 2 | [OOP ning 4 ta ustuni haqida qisqacha gapirib bering](https://github.com/OybekMavlonov/OOP-questions-and-answers-OOP-savol-javoblar-#2-oopning-4-ustuni) |
+| 2 | [OOP ning 4 ta ustuni haqida qisqacha gapirib bering](https://github.com/OybekMavlonov/OOP-questions-and-answers-OOP-savol-javoblar-#2-oop-ning-4-ustuni) |
 | 3 | [Class va Obyekt orasia nima farq bor?] |
 | 4 | [Abstract Class va Interface orasida qanday farq bor?] |
 | 5 | [Abstract Class oddiy Class an nimasi bilan farq qiladi?] |
@@ -27,3 +27,8 @@ ifodalanadi hamda "obyekt" ko'rinishida ishlatiladi. "Obyekt" dagi ma'lumot hola
 Murakkablikni berkitih maqsadida keraksiz tafsilotlarni foydalanuvchidan yashirish (**abstract class/interface**)
 ### 2) Inheritance
 Avlod (Child) obyektlarni ajdod (parent) obyektlarning xususiyatlaridan meros olishi (**base/super class derived/sub class**)
+### 3) Polymorphism
+Obyektning turiga qarab u bilan o'ziga xos ravishda ishlash qobiliyati. Masalan, shakl abstrakt klassining Draw() metodi doira va uchburchak uchun o'ziga xos tarzda 
+ishlaydi (**virtual/override**) 
+### 4) Encapsulation
+Klassdagi o'zgaruvchi va ichki metodlarni tashqaridan chaqirib bo'lmaydigan qilish (**getter/setter**)
