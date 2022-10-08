@@ -4,7 +4,7 @@
 ### Mundarija
 | No. | Savollar |
 | --- | --- |
-| 1 | [OOP nima?](https://github.com/OybekMavlonov/OOP-questions-and-answers-OOP-savol-javoblar-#oop-nima) |
+| 1 | [OOP nima?](https://github.com/OybekMavlonov/OOP-questions-and-answers-OOP-savol-javoblar-#1-oop-nima) |
 | 2 | [OOP ning 4 ta ustuni haqia qisqacha gapirib bering] |
 | 3 | [Class va Obyekt orasia nima farq bor?] |
 | 4 | [Abstract Class va Interface orasida qanday farq bor?] |
