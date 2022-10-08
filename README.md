@@ -5,7 +5,7 @@
 | No. | Savollar |
 | --- | --- |
 | 1 | [OOP nima?](https://github.com/OybekMavlonov/OOP-questions-and-answers-OOP-savol-javoblar-#1-oop-nima) |
-| 2 | [OOP ning 4 ta ustuni haqida qisqacha gapirib bering](https://github.com/OybekMavlonov/OOP-questions-and-answers-OOP-savol-javoblar-#2-oopning-4) |
+| 2 | [OOP ning 4 ta ustuni haqida qisqacha gapirib bering](https://github.com/OybekMavlonov/OOP-questions-and-answers-OOP-savol-javoblar-#2-oopning-4-ustuni) |
 | 3 | [Class va Obyekt orasia nima farq bor?] |
 | 4 | [Abstract Class va Interface orasida qanday farq bor?] |
 | 5 | [Abstract Class oddiy Class an nimasi bilan farq qiladi?] |
@@ -22,6 +22,8 @@
 ## 1. OOP nima?
 OOP yoki Object Oriented Programming bu obyekt asosida qurilgan dasturlash usuli. OOP ga ko'ra, dasturda ishlatilgan ma'lumotlar interfeys va classlar orqali
 ifodalanadi hamda "obyekt" ko'rinishida ishlatiladi. "Obyekt" dagi ma'lumot holati maydon (field) yoki xossa (property) ko'rinishida saqlanadi. "Obyekt" lar bilan ishlash undagi "method" lar orqali bajariladi.
-## 2. OOP ### ning 4 ustuni
+## 2. OOP ning 4 ustuni
 ### 1) Abstraction
 Murakkablikni berkitih maqsadida keraksiz tafsilotlarni foydalanuvchidan yashirish (**abstract class/interface**)
+### 2) Inheritance
+Avlod (Child) obyektlarni ajdod (parent) obyektlarning xususiyatlaridan meros olishi (**base/super class derived/sub class**)
