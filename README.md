@@ -1,7 +1,7 @@
 # OOP-questions-and-answers-OOP-savol-javoblar-
-#OOP haqida savol-javoblar
+# OOP haqida savol-javoblar
 
-###Mundarija
+### Mundarija
 | No. | Savollar |
 | --- | --- |
 | 1 | [OOP nima?] |
@@ -19,7 +19,6 @@
 | 13 | [this kalit so'zi nimani anglatadi? base kalit so'zichi?] |
 | 14 | [Quyidagi constructorni nimasi noto'g'ri?  public int Employee() {}] |
 
-##1. OOP nima?
+## 1. OOP nima?
 ###### OOP yoki Object Oriented Programming bu obyekt asosida qurilgan dasturlash usuli. OOP ga ko'ra, dasturda ishlatilgan ma'lumotlar interfeys va classlar orqali
-ifodalanadi hamda "obyekt" ko'rinishida ishlatiladi. "Obyekt" dagi ma'lumot holati maydon (field) yoki xossa (property) ko'rinishida saqlanadi. "Obyekt" lar bilan ishlash
-undagi "method" lar orqali bajariladi.
+ifodalanadi hamda "obyekt" ko'rinishida ishlatiladi. "Obyekt" dagi ma'lumot holati maydon (field) yoki xossa (property) ko'rinishida saqlanadi. "Obyekt" lar bilan ishlash undagi "method" lar orqali bajariladi.
