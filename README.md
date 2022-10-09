@@ -1,4 +1,5 @@
 # OOP haqida savol-javoblar
+## Farkhod Dadajanov darsi asosida tayyorlandi (https://youtu.be/LhgdP7yu7og)
 
 ### Mundarija
 | No. | Savollar |
@@ -13,8 +14,8 @@
 | 8 | [Field va Property orasida qanday farq bor?](https://github.com/OybekMavlonov/OOP-savol-javoblar#8-Field-va-Property) |
 | 9 | [Constructor qanday chaqiriladi?](https://github.com/OybekMavlonov/OOP-savol-javoblar#9-Constructor-qachon-ishga-tushadi?) |
 | 10 | [Method Overloading va Overriding haqida aytib bering](https://github.com/OybekMavlonov/OOP-savol-javoblar#10-Method-overloading-va-overriding) |
-| 11 | [this kalit so'zi nimani anglatadi? base kalit so'zichi?](https://github.com/OybekMavlonov/OOP-savol-javoblar#11-oop-nima) |
-| 12 | [Quyidagi constructorni nimasi noto'g'ri?  public int Employee() {}](https://github.com/OybekMavlonov/OOP-savol-javoblar#12-oop-nima) |
+| 11 | [this kalit so'zi nimani anglatadi? base kalit so'zichi?](https://github.com/OybekMavlonov/OOP-savol-javoblar#11-base-va-this-kalit-so'zlari) |
+| 12 | [Quyidagi constructorni nimasi noto'g'ri?  public int Employee() {}](https://github.com/OybekMavlonov/OOP-savol-javoblar#12-Quyidagi-constructorni-nimasi-noto'g'ri?) |
 
 ## 1. OOP nima?
 OOP yoki Object Oriented Programming bu obyekt asosida qurilgan dasturlash usuli. OOP ga ko'ra, dasturda ishlatilgan ma'lumotlar interfeys va classlar orqali
@@ -81,4 +82,16 @@ Constructor classdagi maxsus metod bo'lib u classdan yangi instance olinayotgan 
 **Overriding** - ajdod (parent) classdagi virtual metod/xossa ni avlod (child) classda override qilish.
 
 [Mundarijaga qaytish](https://github.com/OybekMavlonov/OOP-savol-javoblar)
-## 11. 
+## 11. base va this kalit so'zlari
+**base** - ajdod (parent) classga ko'rsatkich
+
+**this** - hozirgi obyektga ko'rsatkich (metod ichida)
+
+[Mundarijaga qaytish](https://github.com/OybekMavlonov/OOP-savol-javoblar)
+## 12. Quyidagi constructorni nimasi noto'g'ri?
+public int Employee() {}
+
+Bu constructor ning int - qaytaruvchi turi noto'g'ri
+Constructor hech narsa qaytarmaydi
+
+[Mundarijaga qaytish](https://github.com/OybekMavlonov/OOP-savol-javoblar)
