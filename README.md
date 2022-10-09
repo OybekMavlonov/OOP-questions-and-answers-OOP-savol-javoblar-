@@ -15,7 +15,7 @@
 | 9 | [Constructor qanday chaqiriladi?](https://github.com/OybekMavlonov/OOP-savol-javoblar#9-Constructor-qachon-ishga-tushadi?) |
 | 10 | [Method Overloading va Overriding haqida aytib bering](https://github.com/OybekMavlonov/OOP-savol-javoblar#10-Method-overloading-va-overriding) |
 | 11 | [this kalit so'zi nimani anglatadi? base kalit so'zichi?](https://github.com/OybekMavlonov/OOP-savol-javoblar#11-base-va-this-kalit-so'zlari) |
-| 12 | [Quyidagi constructorni nimasi noto'g'ri?  public int Employee() {}](https://github.com/OybekMavlonov/OOP-savol-javoblar#12-Quyidagi-constructorni-nimasi-noto'g'ri?) |
+| 12 | [Quyidagi constructorni nimasi noto'g'ri?  public int Employee() {}](https://github.com/OybekMavlonov/OOP-savol-javoblar#12-quyidagi-constructorni-nimasi-notogri) |
 
 ## 1. OOP nima?
 OOP yoki Object Oriented Programming bu obyekt asosida qurilgan dasturlash usuli. OOP ga ko'ra, dasturda ishlatilgan ma'lumotlar interfeys va classlar orqali
