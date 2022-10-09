@@ -3,8 +3,8 @@
 ### Mundarija
 | No. | Savollar |
 | --- | --- |
-| 1 | [OOP nima?](https://github.com/OybekMavlonov/OOP-savol-javoblar-#1-oop-nima) |
-| 2 | [OOP ning 4 ta ustuni haqida qisqacha gapirib bering](https://github.com/OybekMavlonov/OOP-savol-javoblar-#2-oop-ning-4-ustuni) |
+| 1 | [OOP nima?](https://github.com/OybekMavlonov/OOP-savol-javoblar#1-oop-nima) |
+| 2 | [OOP ning 4 ta ustuni haqida qisqacha gapirib bering](https://github.com/OybekMavlonov/OOP-savol-javoblar#2-oop-ning-4-ustuni) |
 | 3 | [Class va Obyekt orasida nima farq bor?] |
 | 4 | [Abstract Class va Interface orasida qanday farq bor?] |
 | 5 | [Abstract Class oddiy Class an nimasi bilan farq qiladi?] |
@@ -31,3 +31,12 @@ Obyektning turiga qarab u bilan o'ziga xos ravishda ishlash qobiliyati. Masalan,
 ishlaydi (**virtual/override**) 
 ### 4) Encapsulation
 Klassdagi o'zgaruvchi va ichki metodlarni tashqaridan chaqirib bo'lmaydigan qilish (**getter/setter**)
+## 3. Class va Obyekt orasidagi farq
+**Class** - qolip, ya'ni unda obyektning qanday xossa va metodlarga ega bo'lishi yozilgan bo'ladi
+class Car {}
+**Obyekt** - class asosida tuzilgan aniq obyekt
+let audi = new Car()
+## 4. Abstract class va Interface
+**Abstract class** - avlod (child) classlar meros oladigan hamda xohlasa o'zgartirishi mumkin bo'lgan xossa va metodlarni o'zida jamlaydi. Unda metod va xossalarni
+"implementatsiyasi" ham bo'lishi mumkin.
+**Interface** - class tomonidan qo'llanilishi mumkin bo'lgan metod va xossalarni ta'riflaydi xolos. Interfeysda metod va xossalarni implementatsiyasi bo'lmaydi.
