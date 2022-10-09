@@ -90,6 +90,7 @@ Constructor classdagi maxsus metod bo'lib u classdan yangi instance olinayotgan 
 public int Employee() {}
 
 Bu constructor ning int - qaytaruvchi turi noto'g'ri
+
 Constructor hech narsa qaytarmaydi
 
 [Mundarijaga qaytish](https://github.com/OybekMavlonov/OOP-savol-javoblar)
