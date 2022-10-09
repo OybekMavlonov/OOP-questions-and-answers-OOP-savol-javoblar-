@@ -9,13 +9,12 @@
 | 3 | [Class va Obyekt orasida nima farq bor?](https://github.com/OybekMavlonov/OOP-savol-javoblar#3-class-va-obyekt-orasidagi-farq) |
 | 4 | [Abstract Class va Interface orasida qanday farq bor?](https://github.com/OybekMavlonov/OOP-savol-javoblar#4-Abstract-class-va-Interface) |
 | 5 | [Abstract Class oddiy Class dan nimasi bilan farq qiladi?](https://github.com/OybekMavlonov/OOP-savol-javoblar#5-Abstract-class-va-Class) |
-| 6 | [Agar xossaga protected kalit so'zi qo'yilgan bo'lsa, bu nimani anglatadi?](https://github.com/OybekMavlonov/OOP-savol-javoblar#6-Protected-kalit-so'zi) |
-| 7 | [AppSettingsManager class idan obyekt (instance) yaratib bo'lmaydigan qilishingiz kerak. Buni qanday qilasiz?](https://github.com/OybekMavlonov/OOP-savol-javoblar#7-Static-Class) |
-| 8 | [Field va Property orasida qanday farq bor?](https://github.com/OybekMavlonov/OOP-savol-javoblar#8-Field-va-Property) |
-| 9 | [Constructor qanday chaqiriladi?](https://github.com/OybekMavlonov/OOP-savol-javoblar#9-Constructor-qachon-ishga-tushadi?) |
-| 10 | [Method Overloading va Overriding haqida aytib bering](https://github.com/OybekMavlonov/OOP-savol-javoblar#10-Method-overloading-va-overriding) |
-| 11 | [this kalit so'zi nimani anglatadi? base kalit so'zichi?](https://github.com/OybekMavlonov/OOP-savol-javoblar#11-base-va-this-kalit-so'zlari) |
-| 12 | [Quyidagi constructorni nimasi noto'g'ri?  public int Employee() {}](https://github.com/OybekMavlonov/OOP-savol-javoblar#12-quyidagi-constructorni-nimasi-notogri) |
+| 6 | [Agar xossaga protected kalit so'zi qo'yilgan bo'lsa, bu nimani anglatadi?](https://github.com/OybekMavlonov/OOP-savol-javoblar#6-protected-kalit-sozi) |
+| 7 | [Field va Property orasida qanday farq bor?](https://github.com/OybekMavlonov/OOP-savol-javoblar#7-Field-va-Property) |
+| 8 | [Constructor qanday chaqiriladi?](https://github.com/OybekMavlonov/OOP-savol-javoblar#8-constructor-qachon-ishga-tushadi) |
+| 9 | [Method Overloading va Overriding haqida aytib bering](https://github.com/OybekMavlonov/OOP-savol-javoblar#9-Method-overloading-va-overriding) |
+| 10 | [this kalit so'zi nimani anglatadi? base kalit so'zichi?](https://github.com/OybekMavlonov/OOP-savol-javoblar#10-base-va-this-kalit-sozlari) |
+| 11 | [Quyidagi constructorni nimasi noto'g'ri?  public int Employee() {}](https://github.com/OybekMavlonov/OOP-savol-javoblar#11-quyidagi-constructorni-nimasi-notogri) |
 
 ## 1. OOP nima?
 OOP yoki Object Oriented Programming bu obyekt asosida qurilgan dasturlash usuli. OOP ga ko'ra, dasturda ishlatilgan ma'lumotlar interfeys va classlar orqali
@@ -64,31 +63,30 @@ Protected qo'yilgan metod yoki xossa faqatgina shu class va avlod (child)larda k
 
 [Mundarijaga qaytish](https://github.com/OybekMavlonov/OOP-savol-javoblar)
 
-## 7. Static Class
-## 8. Field va Property
+## 7. Field va Property
 **Field** - classda e'lon qilingan oddiy o'zgaruvchi. Aksar holatlarda u private bo'ladi va u bilan tashqaridan faqat Property orqali ishlaymiz.
 
 **Property** - getter va setter metodlariga ega bo'lgan maxsus o'zgaruvchi. Property ning getter va setter lari orqali classdagi field ning qiymati qaytariladi
 yoki field ga qiymat beriladi.
 
 [Mundarijaga qaytish](https://github.com/OybekMavlonov/OOP-savol-javoblar)
-## 9. Constructor qachon ishga tushadi?
+## 8. Constructor qachon ishga tushadi?
 Constructor classdagi maxsus metod bo'lib u classdan yangi instance olinayotgan vaqtda yangi obyektni tuzish vaqtida ishga tushadi.
 
 [Mundarijaga qaytish](https://github.com/OybekMavlonov/OOP-savol-javoblar)
-## 10. Method overloading va overriding
+## 9. Method overloading va overriding
 **Overloading** - metodlarning nomi bir xil lekin kiruvchi/qaytaruvchi parametrlarida farqlanuvchi metodlarga qytiladi.
 
 **Overriding** - ajdod (parent) classdagi virtual metod/xossa ni avlod (child) classda override qilish.
 
 [Mundarijaga qaytish](https://github.com/OybekMavlonov/OOP-savol-javoblar)
-## 11. base va this kalit so'zlari
+## 10. base va this kalit so'zlari
 **base** - ajdod (parent) classga ko'rsatkich
 
 **this** - hozirgi obyektga ko'rsatkich (metod ichida)
 
 [Mundarijaga qaytish](https://github.com/OybekMavlonov/OOP-savol-javoblar)
-## 12. Quyidagi constructorni nimasi noto'g'ri?
+## 11. Quyidagi constructorni nimasi noto'g'ri?
 public int Employee() {}
 
 Bu constructor ning int - qaytaruvchi turi noto'g'ri
