@@ -1,12 +1,11 @@
-# OOP-questions-and-answers-OOP-savol-javoblar-
 # OOP haqida savol-javoblar
 
 ### Mundarija
 | No. | Savollar |
 | --- | --- |
-| 1 | [OOP nima?](https://github.com/OybekMavlonov/OOP-questions-and-answers-OOP-savol-javoblar-#1-oop-nima) |
-| 2 | [OOP ning 4 ta ustuni haqida qisqacha gapirib bering](https://github.com/OybekMavlonov/OOP-questions-and-answers-OOP-savol-javoblar-#2-oop-ning-4-ustuni) |
-| 3 | [Class va Obyekt orasia nima farq bor?] |
+| 1 | [OOP nima?](https://github.com/OybekMavlonov/OOP-savol-javoblar-#1-oop-nima) |
+| 2 | [OOP ning 4 ta ustuni haqida qisqacha gapirib bering](https://github.com/OybekMavlonov/OOP-savol-javoblar-#2-oop-ning-4-ustuni) |
+| 3 | [Class va Obyekt orasida nima farq bor?] |
 | 4 | [Abstract Class va Interface orasida qanday farq bor?] |
 | 5 | [Abstract Class oddiy Class an nimasi bilan farq qiladi?] |
 | 6 | [O'zgaruvchini biron turga/class ga tegishli ekanligini qanday qilib tekshirasiz?] |
